@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tourism-react/static/css/main.e50d26ef.css",
+    "main.js": "/tourism-react/static/js/main.b2f044bf.js",
+    "static/js/787.b4cdd736.chunk.js": "/tourism-react/static/js/787.b4cdd736.chunk.js",
+    "static/media/bg1.png": "/tourism-react/static/media/bg1.9cc4efdaffb370de12ed.png",
+    "static/media/feature-bg-1.png": "/tourism-react/static/media/feature-bg-1.d1ccfd39ea5ddc8155c5.png",
+    "static/media/1.png": "/tourism-react/static/media/1.46638963995961dbb9fb.png",
+    "static/media/2.png": "/tourism-react/static/media/2.0e73961d9c1a54470f9f.png",
+    "static/media/3.png": "/tourism-react/static/media/3.2d29935a4d561cec1a14.png",
+    "static/media/f-1.png": "/tourism-react/static/media/f-1.7656771a1b0e0fa7389a.png",
+    "static/media/bg.png": "/tourism-react/static/media/bg.a7f385e2e15c7515c5f4.png",
+    "static/media/f-2.png": "/tourism-react/static/media/f-2.e872b0b042f1258fe545.png",
+    "static/media/revicons.eot": "/tourism-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/tourism-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/tourism-react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/tourism-react/index.html",
+    "main.e50d26ef.css.map": "/tourism-react/static/css/main.e50d26ef.css.map",
+    "main.b2f044bf.js.map": "/tourism-react/static/js/main.b2f044bf.js.map",
+    "787.b4cdd736.chunk.js.map": "/tourism-react/static/js/787.b4cdd736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50d26ef.css",
+    "static/js/main.b2f044bf.js"
+  ]
+}
